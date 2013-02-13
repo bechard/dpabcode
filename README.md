@@ -1,3 +1,4 @@
 dpabcode
 ========
-This is a test
+DP - Edit this readme to confirm it's all good.
+Feel free to add notes to the readme whenever!
